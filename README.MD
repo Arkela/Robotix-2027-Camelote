@@ -1,3 +1,1 @@
-Projet Robotix 2027
-
-Camelote
+Projet Robotix 2027 Camelote
